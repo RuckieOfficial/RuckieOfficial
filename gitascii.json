@@ -1,4 +1,5 @@
 {
+  "username": "RuckieOfficial",
   "widgets": [
     {
       "widgetId": "header",
@@ -12,7 +13,7 @@
         "height": 90
       },
       "config": {
-        "accentColor": "#00ffff"
+        "accentColor": "#ffb800"
       },
       "locked": false,
       "visible": true,
@@ -11573,7 +11574,7 @@
   "globalStyles": {
     "backgroundColor": "#060606",
     "textColor": "#e5e5e5",
-    "accentColor": "#00ffff",
+    "accentColor": "#ffb800",
     "borderColor": "#252525",
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
@@ -11581,5 +11582,6 @@
     "themeMode": "dark",
     "templateStyle": "native_simple"
   },
-  "templateId": "native_simple"
+  "templateId": "native_simple",
+  "profileSlug": "default"
 }
